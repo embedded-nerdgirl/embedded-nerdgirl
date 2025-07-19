@@ -1,3 +1,3 @@
-## Hello
+## Hello!
 
-I like to do embedded programming, from my own custom devices to baremetal applications to even toy kernel-like systems. If you're here, you're probably a nerd like I am. Enjoy my works!
+Who am I? Just a nerd, doing nerdy things. As the name suggests, I like to do very low level stuff and lots of IoT / embedded projects. Most of my stuff. Expect lots of Python, C, C++, maybe even Assembly if I'm feeling wacky.
